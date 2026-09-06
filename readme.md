@@ -17,6 +17,7 @@ Current semester: 1
 
 ### Week 1: Basic Operations & Conditionals
 *Theme: Input/Output, Arithmetic, and Basic Selection Statements*
+
 *1 - 7 September, 2026*
 * **Math & I/O Basics**
   * 📄 [math.c](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/math.c) — Basic arithmetic operations.
@@ -36,4 +37,5 @@ Current semester: 1
 
 ### Week 2: Loops
 *Theme: for loops, while loops , while-do loops*
+
 *8 - 14 September, 2026*
