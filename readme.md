@@ -22,4 +22,3 @@ Welcome! This page acts as a chronological index for our college C lab code file
 
 * **Geometry Programs**
   * 📄 [area-of-rectangle.c]([https://github.com](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/area-of-rectangle.c)) — Calculating rectangle area from dimensions.
-  * 
