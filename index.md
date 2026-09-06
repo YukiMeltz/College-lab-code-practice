@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # C Lab Archive
 
  A chronological archive of C programming lab work.
