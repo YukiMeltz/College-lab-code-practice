@@ -2,10 +2,10 @@
 
 int main()
 {
-	printf("HIMANSHU RAJ\n");
+	printf("YOUR NAME\n");
 	printf("CSE-A\n");
 	printf("GROUP-1\n");
-	printf("10 March, 2008\n");
+	printf("YOUR DATE OF BIRTH\n");
 	return 0;
 }
 
