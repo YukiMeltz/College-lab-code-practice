@@ -1,3 +1,20 @@
+# C Lab Archive
+
+ A chronological archive of C programming lab work.
+
+Current semester: 1
+- Weeks completed: 1
+- Programs archived: 8
+- Current theme: Conditional & Operators
+
+## Navigate
+
+[Week 1](#week-1-basic-operations--conditionals) | [All Programs](https://github.com/YukiMeltz/College-lab-code-practice/tree/main/C)
+
+## Latest
+
+ → [5 September](https://github.com/YukiMeltz/College-lab-code-practice/tree/main/C/2026-09-05) - Conditional & Operators
+
 ### Week 1: Basic Operations & Conditionals
 *Theme: Input/Output, Arithmetic, and Basic Selection Statements*
 
