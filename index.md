@@ -1,5 +1,4 @@
-> [!IMPORTANT]
-> [Click Here For Maintainer Info](https://github.com/YukiMeltz/College-lab-code-practice/edit/web/index.md#maintainer-info-)
+> [Click Here For Maintainer Info](#maintainer-info-)
 
 > The program's codes which are archived here in this page are as per standards and syntax used in my college computer labs.
 
