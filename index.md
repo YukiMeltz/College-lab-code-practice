@@ -1,6 +1,6 @@
 > [Click Here For Maintainer Info](#maintainer-info-)
 
-> The program's codes which are archived here in this page are as per standards and syntax used in my college computer labs.
+> The programs archived on this page follow the standards and syntax used in my college's computer labs.
 
 # C Lab Archive
 
@@ -53,4 +53,4 @@ Current semester: 1
 ## Maintainer Info :
 * **Maintained by Himanshu Raj (alias [YukiMeltz](https://github.com/YukiMeltz))** - B.Tech CSE Student.
 * *Student* maintained archive.
-* This is an **Unofficial Resource**.
+* **This is an unofficial student resource.**
