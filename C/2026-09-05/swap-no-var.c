@@ -9,7 +9,7 @@ int main()
 	scanf("%d", &b);
 	printf("a is %d\n", a);
 	printf("b is %d\n", b);
-	printf("sawpping the numbers...\n");
+	printf("swapping the numbers...\n");
     a = a + b;
     b = a - b;
     a = a - b;
