@@ -39,3 +39,7 @@ Current semester: 1
 *Theme: for loops, while loops , while-do loops*
 
 *8 - 14 September, 2026*
+
+---
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fyukimeltz.github.io%2FCollege-lab-code-practice%2F&label=Total+Visitors&icon=arrow-down-circle&color=%239eeaf9&message=&style=for-the-badge&tz=Japan)
