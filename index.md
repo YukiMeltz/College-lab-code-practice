@@ -8,7 +8,7 @@
 
 Current semester: 1
 - Weeks completed: 1
-- Programs archived: 8
+- Programs archived: 7
 - Current theme: Conditional & Operators
 
 ## Navigate
@@ -24,21 +24,20 @@ Current semester: 1
 
 *1 - 7 September, 2026*
 * **Math & I/O Basics**
-  * 📄 [math.c](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/math.c) — Basic arithmetic operations.
-  * 📄 [math-input.c](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/math-input.c) — Handling user input for math calculations.
-  * 📄 [data.c](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/data.c) — Demonstrating basic data types and formatting.
-
-* **Variable Swapping**
-  * 📄 [swap.c](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/swap.c) — Swapping two variables using a temporary variable.
-  * 📄 [swap-no-var.c](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/swap-no-var.c) — Swapping two variables *without* a temporary variable.
-
+  * 📄 [data.c](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/data.c) — A program to print student details such as name, DOB, batch, and group.
+  * 📄 [math-input.c](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/math-input.c) — A program to calculate the sum and average of three numbers by taking input from the user.
+    
+* **Geometry Programs**
+  * 📄 [area-of-rectangle.c](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/area-of-rectangle.c) — Calculating rectangle area from dimensions inputted by the user.
+ 
 * **Conditional Logic**
   * 📄 [odd-even.c](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/odd-even.c) — Checking if a number is odd or even.
   * 📄 [compare.c](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/compare.c) — Comparing numbers to find the largest value.
 
-* **Geometry Programs**
-  * 📄 [area-of-rectangle.c](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/area-of-rectangle.c) — Calculating rectangle area from dimensions.
-
+* **Variable Swapping**
+  * 📄 [swap.c](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/swap.c) — Swapping two variables using a temporary variable.
+  * 📄 [swap-no-var.c](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/swap-no-var.c) — Swapping two variables *without* a temporary variable.
+    
 ### Week 2: Loops
 *Theme: for loops, while loops , do-while loops*
 
