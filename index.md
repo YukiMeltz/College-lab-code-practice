@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> [Click Here For Maintainer Info](https://github.com/YukiMeltz/College-lab-code-practice/edit/web/index.md#maintainer-info-)
+
+> The program's codes which are archived here in this page are as per standards and syntax used in my college computer labs.
+
 # C Lab Archive
 
  A chronological archive of C programming lab work.
@@ -36,10 +41,17 @@ Current semester: 1
   * 📄 [area-of-rectangle.c](https://github.com/YukiMeltz/College-lab-code-practice/blob/main/C/2026-09-05/area-of-rectangle.c) — Calculating rectangle area from dimensions.
 
 ### Week 2: Loops
-*Theme: for loops, while loops , while-do loops*
+*Theme: for loops, while loops , do-while loops*
 
 *8 - 14 September, 2026*
 
 ---
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fyukimeltz.github.io%2FCollege-lab-code-practice%2F&label=Total+Visitors&icon=arrow-down-circle&color=%239eeaf9&message=&style=for-the-badge&tz=Japan)
+
+---
+
+## Maintainer Info :
+* **Maintained by Himanshu Raj (alias [YukiMeltz](https://github.com/YukiMeltz))** - B.Tech CSE Student.
+* *Student* maintained archive.
+* This is an **Unofficial Resource**.
