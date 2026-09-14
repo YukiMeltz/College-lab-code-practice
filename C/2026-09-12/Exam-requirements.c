@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("\nYour Name");
+	printf("\nYour Name"); //here, Himanshu Raj (alias YukiMeltz)
 	//initialize all variable at -1 value
 	//as placeholder for proper logic.
 	int theory = -1;
@@ -15,7 +15,7 @@ int main()
 	int test = 0;
 	int Twelfth = 0;
 
-	//take entries recursively until proper bounded entry is given
+	//take entries repetetively until proper bounded entry is given
 	printf("\nPlease Enter the following as it's asked.");
 	printf("\nEverything is in percentage.");
 	
