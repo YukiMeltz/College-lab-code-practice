@@ -5,11 +5,11 @@ int main()
 	printf("\nYour Name"); //here, Himanshu Raj (alias YukiMeltz)
 	//initialize all variable at -1 value
 	//as placeholder for proper logic.
-	int theory = -1;
-	int lab = -1;
-	int test1 = -1;
-	int test2 = -1;
-	int Twelfth_Marks = -1;
+	float theory = -1;
+	float lab = -1;
+	float test1 = -1;
+	float test2 = -1;
+	float Twelfth_Marks = -1;
 	//make all false using integer values as logic
 	int attendance = 0;
 	int test = 0;
@@ -20,48 +20,48 @@ int main()
 	printf("\nEverything is in percentage.");
 	
 	printf("\nEnter Attendance.");
-	while (theory > 100 || theory < 0)
+	while (theory >= 100 || theory <= 0)
 	{
 		printf("\nEnter theory attendance : ");
-		scanf("%d", &theory);
+		scanf("%f", &theory);
 		
 	}
-	printf("Theory attendance is %d%%", theory);
-	while (lab > 100 || lab < 0)
+	printf("Theory attendance is %.3f%%", theory);
+	while (lab >= 100 || lab <= 0)
 	{
 		printf("\nEnter lab attendance : ");
-		scanf("%d", &lab);
+		scanf("%f", &lab);
 		
 	} 
-	printf("Lab attendance is %d%%", lab);
+	printf("Lab attendance is %.3f%%", lab);
 	
 	printf("\nAttendance Entries Complete.");
 	
 	printf("\nPlease Enter Test Marks : ");
-	while (test1 > 100 || test1 < 0)
+	while (test1 >= 100 || test1 <= 0)
 	{
 		printf("\nEnter test 1 marks : ");
-		scanf("%d", &test1);
+		scanf("%f", &test1);
 		
 	}
-	printf("Test 1 marks is %d%%", test1);
-	while (test2 > 100 || test2 < 0)
+	printf("Test 1 marks is %.3f%%", test1);
+	while (test2 >= 100 || test2 <= 0)
 	{
 		printf("\nEnter Test 2 marks : ");
-		scanf("%d", &test2);
+		scanf("%f", &test2);
 		
 	} 
-	printf("Test 2 marks is %d%%", test2);
+	printf("Test 2 marks is %.3f%%", test2);
 	
 	printf("\nTest Marks Entries Complete.");
 
-	while (Twelfth_Marks > 100 || Twelfth_Marks < 0)
+	while (Twelfth_Marks >= 100 || Twelfth_Marks <= 0)
 	{
 		printf("\nEnter 12th Marks : ");
-		scanf("%d", &Twelfth_Marks);
+		scanf("%f", &Twelfth_Marks);
 		
 	} 
-	printf("12th marks is %d%%", Twelfth_Marks);
+	printf("12th marks is %.3f%%", Twelfth_Marks);
 
 	//Logic Section of requirements	starts
 	if (theory >= 80 || lab >= 85)
