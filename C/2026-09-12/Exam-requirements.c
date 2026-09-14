@@ -20,14 +20,14 @@ int main()
 	printf("\nEverything is in percentage.");
 	
 	printf("\nEnter Attendance.");
-	while (theory >= 100 || theory <= 0)
+	while (theory > 100 || theory < 0)
 	{
 		printf("\nEnter theory attendance : ");
 		scanf("%f", &theory);
 		
 	}
 	printf("Theory attendance is %.3f%%", theory);
-	while (lab >= 100 || lab <= 0)
+	while (lab > 100 || lab < 0)
 	{
 		printf("\nEnter lab attendance : ");
 		scanf("%f", &lab);
@@ -38,14 +38,14 @@ int main()
 	printf("\nAttendance Entries Complete.");
 	
 	printf("\nPlease Enter Test Marks : ");
-	while (test1 >= 100 || test1 <= 0)
+	while (test1 > 100 || test1 < 0)
 	{
 		printf("\nEnter test 1 marks : ");
 		scanf("%f", &test1);
 		
 	}
 	printf("Test 1 marks is %.3f%%", test1);
-	while (test2 >= 100 || test2 <= 0)
+	while (test2 > 100 || test2 < 0)
 	{
 		printf("\nEnter Test 2 marks : ");
 		scanf("%f", &test2);
@@ -55,7 +55,7 @@ int main()
 	
 	printf("\nTest Marks Entries Complete.");
 
-	while (Twelfth_Marks >= 100 || Twelfth_Marks <= 0)
+	while (Twelfth_Marks > 100 || Twelfth_Marks < 0)
 	{
 		printf("\nEnter 12th Marks : ");
 		scanf("%f", &Twelfth_Marks);
