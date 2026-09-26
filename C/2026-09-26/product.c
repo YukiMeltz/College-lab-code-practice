@@ -51,7 +51,7 @@ int main(void)
 			temp1 = 0;
 			for(k = 0; k < 3; k++)
 			{
-				temp1 = temp1 + A[i][k]*B[k][i];
+				temp1 = temp1 + A[i][k]*B[k][j];
 			}
 			prod[i][j] = temp1;
 			temp1 = 0;
